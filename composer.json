@@ -1,5 +1,5 @@
 {
-  "name": "fajuu/flarum-icons",
+  "name": "vell61/flarum-icons",
   "description": "Finally, you can change the forum icons to the one you like!",
   "type": "flarum-extension",
   "keywords": [
@@ -7,7 +7,7 @@
     "fontawesomepro",
     "icons"
   ],
-  "homepage": "https://github.com/Fajuu/flarum-icons",
+  "homepage": "https://github.com/Vell61/flarum-icons",
   "license": "MIT",
   "authors": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/Fajuu/flarum-icons/issues",
-    "source": "https://github.com/Fajuu/flarum-icons"
+    "issues": "https://github.com/Vell61/flarum-icons/issues",
+    "source": "https://github.com/Vell61/flarum-icons"
   },
   "require": {
     "flarum/core": "^1.8.3"
